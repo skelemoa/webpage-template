@@ -42,10 +42,6 @@ body {
     max-width: 150px;
 }
 
-.teaser img {
-    width: 80%;
-}
-
 .video-container {
     position: relative;
     overflow: hidden;
