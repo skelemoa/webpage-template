@@ -18,6 +18,12 @@ body {
     width: 90%;
 }
 
+.venue {
+    font-size: 22px;
+    margin-top: 20px;
+    width: 90%;
+}
+
 .author {
     width: 95%;
     max-width: 300px;
@@ -31,7 +37,7 @@ body {
 }
 
 .links {
-    font-size: 24px;
+    font-size: 22px;
     width: 95%;
     max-width: 150px;
 }
